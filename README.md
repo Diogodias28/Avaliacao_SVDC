@@ -2,6 +2,8 @@
 
 Este repositório contém uma análise visual detalhada sobre o panorama energético mundial, utilizando o dataset **Our World in Data (OWID) Energy Data**. O projeto foi desenvolvido no **Tableau** e foca-se na evolução do consumo e na ascensão das energias renováveis.
 
+Link para o Tableau Public: https://public.tableau.com/shared/2F5Q9XPS6?:display_count=n&:origin=viz_share_link
+
 ---
 
 ## Preparação e Transformação
